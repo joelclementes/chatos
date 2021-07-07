@@ -39,6 +39,6 @@ export const productos = [
         nombre:'Papas a la francesa',
         descripcion: 'Medianas (150gr) | Grandes (250gr) | Jumbo (400gr)',
         precio: "40 | $50 | $70" ,
-        imagen: 'image/papasfrancesa.jpg'
+        imagen: 'image/papasfrancesa.png'
     }
 ]
