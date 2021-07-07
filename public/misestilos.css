@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    background-blend-mode: multiply,multiply;
+    background-repeat: no-repeat;
+
+}
+
+main{
+    /* Porque el Navbar está fijo en la parte de arriba*/
+    padding-top: 130px;
+}
+
+.logowhatsapp{
+    height:40px;
+}
+
+#barranavegacion{
+    padding-top: 150px;
+    /* background: url("../public/image/textura.jpg"); */
+    background-size:cover;
+}
+
+#barranavegacion a{
+    color:#fff
+}
+
+.logochatos{
+    width: 60%;
+    border-radius: 100%;
+}
+
+.productos{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card {
+    border-radius: 5px;
+}
+
+.overflow{
+    height:50%;
+    overflow:hidden;
+}
+
+.overflow .card-img-top{
+    transform: scale(1);
+    transition: all 0.2s ease-in-out;
+}
+
+.overflow .card-img-top:hover{
+    transform: scale(1.8);
+}
+
+#producto{
+    color:#fff;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.producto .nombre, .precio{
+    color: #eebc2c
+}
+
+.border-warning{
+    border-color: #eebc2c !important;
+}
+
+#nprogress .bar{
+    background: #eebc2c !important;
+}
+
+#nprogress .spinner-icon{
+    border-top-color: #eebc2c;
+    border-left-color: #eebc2c;
+}
