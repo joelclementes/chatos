@@ -12,7 +12,7 @@ const Index = () => (
             <div className="card card-body bg-secondary text-light rounded">
                 <div className="row">
                     <div className="col-md-3 text-center">
-                        <img src="image/LogoChatos.jpeg" alt=""  className="logochatos"/>
+                        <img src="image/Logo.png" alt=""  className="logochatos"/>
                     </div>
                     <div className="col-md-9">
                         <h1>¿Ya nos conoces?</h1>
