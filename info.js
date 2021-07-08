@@ -40,5 +40,11 @@ export const productos = [
         descripcion: 'Medianas (150gr) | Grandes (250gr) | Jumbo (400gr)',
         precio: "40 | $50 | $70" ,
         imagen: 'image/papasfrancesa.png'
+    },
+    {
+        nombre:'NACHOS',
+        descripcion: '100gr de nachos bañados en queso derretido. Agrégale tocino con $10 extra',
+        precio: "60" ,
+        imagen: 'image/nachos.png'
     }
 ]
