@@ -3,6 +3,8 @@ body{
     background-blend-mode: multiply,multiply;
     background-repeat: no-repeat;
 
+    font-family: 'Raleway', sans-serif;
+    font-weight:400;
 }
 
 main{
@@ -45,11 +47,11 @@ main{
 
 .overflow .card-img-top{
     transform: scale(1);
-    transition: all 0.2s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
 .overflow .card-img-top:hover{
-    transform: scale(1.8);
+    transform: scale(1.5);
 }
 
 #producto{
@@ -59,6 +61,8 @@ main{
 }
 
 .producto .nombre, .precio{
+    font-family: 'Archivo Black', sans-serif;
+    /* font-weight: 600; */
     color: #eebc2c
 }
 
@@ -74,3 +78,4 @@ main{
     border-top-color: #eebc2c;
     border-left-color: #eebc2c;
 }
+

@@ -18,9 +18,15 @@ class MyDocument extends Document {
             <meta name="description" content="Hamburguesas al carbón en Dos Ríos Alitas Boneless Hotdogs" />
             <meta name="keywords" content="chatos, chato's, hamburguesas, hot dog, hotdogs, alitas, boneles, papas, nachos" />
             <meta name="mobile-web-app-capable" content="yes" />
-            <meta name="og:image" content="image/LogoChatos.jpeg"/>
+            <meta name="og:image" content="/image/LogoChatos.jpeg"/>
 
+            {/* Para la barra de progreso cuando cambia de página */}
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.css"/>
+
+            {/* La tipografía */}
+            <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Raleway:wght@400;500;600&display=swap" rel="stylesheet" />
+            {/* <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&display=swap" rel="stylesheet"/> */}
+
         </Head>
         <body>
           <Main />
