@@ -37,7 +37,7 @@ const Index = () => (
                                 <div className="card bg-dark text-light h-100 " id="productos">
 
                                     {/* <div className="card-header border-warning text-center"> */}
-                                    <div className="overflow">
+                                    <div className="">
                                         <img src={imagen} alt="" className="card-img-top"/>
                                     </div>
 
