@@ -16,6 +16,10 @@ main{
     height:40px;
 }
 
+.logorrss{
+    width:30px
+}
+
 #barranavegacion{
     padding-top: 150px;
     /* background: url("../public/image/textura.jpg"); */
@@ -32,8 +36,8 @@ main{
 }
 
 .productos{
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .card {
@@ -79,7 +83,7 @@ main{
     border-left-color: #eebc2c;
 }
 
-/* .imgpromo{
-    width:100%;
-    height: auto;
-} */
+footer .rowfooter{
+    height:70px;
+    vertical-align: middle;
+}
