@@ -15,12 +15,12 @@ class MyDocument extends Document {
             {/* SEO */}
             <meta name="title" content="Chato's Hamburguesas y más" />
             <meta name="author" content="Chato's" />
-            <meta name="description" content="Hamburguesas al carbón en Dos Ríos Alitas Boneless Hotdogs" />
+            <meta name="description" content="Hamburguesas en Dos Ríos Alitas Boneless Hotdogs" />
             <meta name="keywords" content="chatos, chato's, hamburguesas, hot dog, hotdogs, alitas, boneless, papas, nachos" />
             <meta name="mobile-web-app-capable" content="yes" />
             <meta name="og:title" content="Chato's hamburguesas | Creando momentos para compartir"></meta>
             <meta name="og:image" content="/image/LogoChatos.jpeg"/>
-            <meta name="og:description" content="Disfruta hamburguesas en familia sin salir de casa - pide tu hamburquesa Chato's por WhatsApp"></meta>
+            <meta name="og:description" content="Ofrece una experiencia que permite compartir valiosos momentos en familia. Servicio en Dos Ríos y cercanías."></meta>
 
             {/* Para la barra de progreso cuando cambia de página */}
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.css"/>
